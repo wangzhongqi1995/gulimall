@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.erosion</groupId>
+    <artifactId>gulimall</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>gulimall</name>
+    <description>聚合服务</description>
+
+    <packaging>pom</packaging>
+    <modules>
+        <!--优惠券模块-->
+        <module>gulimall-coupon</module>
+        <!--会员模块-->
+        <module>gulimall-member</module>
+        <!--商品模块-->
+        <module>gulimall-product</module>
+        <!--订单模块-->
+        <module>gulimall-order</module>
+        <!--仓储模块-->
+        <module>gulimall-ware</module>
+    </modules>
+
+</project>
