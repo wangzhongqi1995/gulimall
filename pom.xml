@@ -20,6 +20,10 @@
         <module>gulimall-order</module>
         <!--仓储模块-->
         <module>gulimall-ware</module>
+        <!--管理后台 -->
+        <module>gulimall-admin</module>
+        <module>gulimall-generator</module>
+        <module>gulimall-common</module>
     </modules>
 
 </project>
