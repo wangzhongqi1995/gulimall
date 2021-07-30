@@ -8,10 +8,9 @@ import java.util.Map;
 
 /**
  * 
- *
  * @author wangzhongqi
  * @email wangzhongqi95@gmail.com
- * @date 2021-07-30 19:21:28
+ * @date 2021-07-30 22:39:09
  */
 public interface UndoLogService extends IService<UndoLogEntity> {
 
